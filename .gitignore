@@ -13,3 +13,17 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# System files
+.DS_Store
+.directory
+*~
+*.bak
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
